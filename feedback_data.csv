@@ -1,0 +1,16 @@
+timestamp,district,season,NDVI,Rainfall,Soil_pH,predicted_crop,actual_crop,yield_kg,satisfaction
+2025-11-05 21:35:55,erode,Rabi,0.0,1.3,7.5,Not Predicted,BANANA,3000,3
+2025-11-05 21:36:17,erode,Rabi,0.0,1.3,7.5,Not Predicted,BANANA,3000,1
+2025-11-05 21:55:04,cuddalore,Rabi,1.0,1.5,8.0,COCONUT,COCONUT,2200,3
+2025-11-05 22:01:22,cuddalore,Rabi,1.0,1.5,8.0,COCONUT,COCONUT,2200,3
+2025-11-05 22:13:01,ariyalur,Kharif,0.5,0.5,6.5,PADDY,PADDY,2000,4
+2025-11-05 22:14:55,ariyalur,Kharif,0.5,0.5,6.5,PADDY,PADDY,2000,4
+2025-11-05 22:24:36,ariyalur,Kharif,0.5,0.5,6.5,PADDY,PADDY,4000,4
+2025-11-05 22:27:26,ariyalur,Kharif,0.5,0.5,6.5,PADDY,MILLET,3000,2
+2025-11-05 22:46:43,perambalur,Zaid,1.0,1.5,8.0,COCONUT,COCONUT,3000,5
+2025-11-05 22:50:20,perambalur,Zaid,1.0,1.5,8.0,COCONUT,COCONUT,3000,2
+2025-11-05 22:51:35,ariyalur,Kharif,0.5,0.5,6.5,PADDY,BANANA,3000,3
+2025-11-05 22:54:31,ariyalur,Kharif,0.5,0.5,6.5,PADDY,BANANA,3000,3
+2025-11-06 17:20:03,villupuram,Rabi,1.0,1.5,6.5,COCONUT,COCONUT,1500,4
+2025-11-07 12:25:29,erode,Zaid,0.5,0.5,6.5,BANANA,BANANA,3000,3
+2025-11-07 13:34:46,kancheepuram,Kharif,0.15,0.26,4.4,TEA_COFFEE,BANANA,3000,3
